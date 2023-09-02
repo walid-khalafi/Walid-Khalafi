@@ -5,7 +5,14 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
+I am an experienced Network Administrator & FullStack Web Developer. I have more than 13 years of work experience in Microsoft Net Technology and Online Web Services.
 
+I am currently looking for a suitable and encouraging job opportunity to transfer my academic and work experience to new projects.
+
+Therefore, due to my strong and continuous motivation in developing my work career and skills in a new and suitable work project, I am glad to apply for a position in your company to transfer my academic and work experience and skills to your company, and to experience new challenges and gain new skills. I am always enthusiastic and determined about my duties and responsibilities and highly motivated to achieve my professional objectives.
+<br><br>
+Please contact me if you need more information.
 <br>
 
 - :school: I am a IT Specialist at Industrial Estate of Khouzestan Co.
