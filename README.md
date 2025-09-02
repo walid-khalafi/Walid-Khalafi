@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Walid Khalafi</h1>
+<h1 align="center">Walid Khalafi</h1>
 <p align="center">
   <em>Full Stack Developer • .NET Core Specialist • Systems Thinker • Open Source Contributor</em><br>
   <strong>📍 Based in Iran | 🌍 Open to Remote & Relocation</strong>
