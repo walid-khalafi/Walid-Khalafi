@@ -1,43 +1,51 @@
-<h1 align="center">Hi , I'm Walid Khalafi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br>
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br>
-I am an experienced Network Administrator & FullStack Web Developer. I have more than 13 years of work experience in Microsoft Net Technology and Online Web Services.
-
-I am currently looking for a suitable and encouraging job opportunity to transfer my academic and work experience to new projects.
-
-Therefore, due to my strong and continuous motivation in developing my work career and skills in a new and suitable work project, I am glad to apply for a position in your company to transfer my academic and work experience and skills to your company, and to experience new challenges and gain new skills. I am always enthusiastic and determined about my duties and responsibilities and highly motivated to achieve my professional objectives.
-<br><br>
-Please contact me if you need more information.
-<br>
-
-- :school: I am a IT Specialist at Industrial Estate of Khouzestan Co.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Asp.net Core`.
-- :student: I’m currently learning `Data Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY LinkedIn](https://www.linkedin.com/in/walid-khalafi-5b4927173/).
-<br>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<h1 align="center">🧠 Walid Khalafi</h1>
+<p align="center">
+  <em>Full Stack Developer • .NET Core Specialist • Systems Thinker • Open Source Contributor</em><br>
+  <strong>📍 Based in Iran | 🌍 Open to Remote & Relocation</strong>
 </p>
-<!--
-**walid-khalafi/Walid-Khalafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Philosophy in Code
+
+> “Architecture is negotiation between ambition and reality.”  
+> I build systems that are not only scalable and maintainable, but intellectually honest. Whether reconstructing ENIAC simulations or designing enterprise APIs, I approach every challenge with clarity, precision, and respect for complexity.
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Domain        | Tools & Frameworks                                      |
+|--------------|----------------------------------------------------------|
+| Backend       | .NET Core, C#, ASP.NET, EF Core, REST APIs              |
+| Frontend      | JavaScript, React, HTML/CSS                             |
+| Systems       | Bootloader design, compiler theory, modular architecture|
+| Cloud & DevOps| Azure, CI/CD, SQL Server                                |
+| Documentation | Markdown, multi-language publishing, GitHub Pages       |
+
+---
+
+## 🚀 Current Focus
+
+- 🚚 Architecting a **transportation management system** using Domain-Driven Design (DDD)  
+- 🧩 Modeling logistics workflows with **flexible boundaries** and strategic aggregates  
+- 🧼 Writing **clean, maintainable code** that supports long-term evolution and team scalability  
+- 📐 Applying modular architecture to balance technical ambition with real-world constraints  
+- 📖 Documenting design decisions for transparency and future contributors  
+
+---
+
+## 🌐 Connect & Collaborate
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/walid-khalafi-5b4927173/)  
+- 🧑‍💻 [GitHub](https://github.com/walid-khalafi)  
+- 📬 Open to remote work, relocation, and global collaboration  
+
+---
+
+## 🧵 Threads of Thought
+
+```text
+📘 Documentation is not a chore — it's a form of respect.
+🧩 Architecture is a living dialogue between constraints and creativity.
+🕰️ Computing history is not nostalgia — it's insight.
